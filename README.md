@@ -10,3 +10,10 @@ A feature-rich social media platform built using Java, Servlet, JSP, and MySQL.
 ✔ Create, edit, delete posts  
 ✔ Real-time messaging  
 ✔ Secure database with optimized queries  
+
+
+![image alt](https://github.com/amitrajput1508/social/blob/2f44ca077288bc4056dcef342dc59602f1a989c2/Screenshot%202025-03-02%20130013.png)
+
+![image alt](https://github.com/amitrajput1508/social/blob/2f44ca077288bc4056dcef342dc59602f1a989c2/Screenshot%202025-03-02%20130040.png)
+
+![iamge alt](https://github.com/amitrajput1508/social/blob/2f44ca077288bc4056dcef342dc59602f1a989c2/Screenshot%202025-03-02%20130114.png)
